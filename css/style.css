@@ -1,11 +1,17 @@
 .DigitalClock {
-
-	font-size: 60px;
-	text-align: Center;
-	margin-top: 250px;
+    font-size: 100px;
+    text-align: Center;
+    margin-top: 210px;
+    color: white;
 }
 
 .design {
+    background-color: rgb(10, 11, 47);
+}
 
-	background-color: gray;
+.greeting {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
 }
